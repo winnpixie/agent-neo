@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: io.github.winnpixie.loader.AgentSmith
+Premain-Class: io.github.winnpixie.neo.Neo
+Agent-Class: io.github.winnpixie.neo.Neo
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
